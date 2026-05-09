@@ -25,7 +25,7 @@
 
 ### 🚀 Backend
 
-* Node.js, Express.js
+* Node.js, Express.js, SpringBoot
 
 ### 🗄️ Database
 
